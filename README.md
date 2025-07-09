@@ -94,5 +94,6 @@ Proyek ini menggunakan **machine learning (Random Forest)** untuk mengklasifikas
 ## 🙏 Acknowledgements
 
 Dataset oleh: Gambi, E. (2020). *Air Quality dataset for ADL classification*, Mendeley Data V1.
+Kaggle : https://www.kaggle.com/datasets/saurabhshahane/adl-classification/data
 
 ---
